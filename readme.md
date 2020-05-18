@@ -55,7 +55,7 @@ Before you can start the exercises, you must install all of the code necessary t
 npm install
 ```
 
-Carefully read the messages that appear. Are there any errors? If so, please ask a mentor for help.
+Carefully read the messages that appear. Are there any errors? If so, please ask a classmate for help.
 
 ### Begin working on the exercises
 

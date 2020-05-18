@@ -170,6 +170,4 @@ When you have completed all of the tasks, commit your changes. Then run the foll
 git push
 ```
 
-When this is done, post a link to your GitHub repository in the Slack channel and ask the mentors to take a look.
-
 :+1:

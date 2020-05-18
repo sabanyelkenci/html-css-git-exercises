@@ -4,7 +4,7 @@ In this exercise you will learn how to work with two branches that have "diverge
 
 Follow the instructions below to create a merge conflict and then learn how to solve the problem.
 
-> _Hint: There are many ways this exercise can cause problems if you don't follow the steps precisely. If you are confused at any time, ask a mentor for help._
+> _Hint: There are many ways this exercise can cause problems if you don't follow the steps precisely. If you are confused at any time, ask a classmate or coach for help._
 
 In [exercise 15](/week-2/15-git-merge) you created and merged a pull request to change the links to `orangered`. But your boss is still not happy. She wants to try a purple colour (`fuchsia`).
 
